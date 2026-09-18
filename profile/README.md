@@ -1,6 +1,6 @@
-## CLAVE 360
-
-**Transformación digital e inteligencia artificial para pymes.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/clave360/.github/main/profile/banner.png" alt="CLAVE 360 — Transformación digital e inteligencia artificial para pymes" width="100%">
+</p>
 
 Ayudamos a pequeñas y medianas empresas a dar pasos reales en digitalización:
 diagnóstico, implantación de IA aplicada a procesos de negocio, ciberseguridad
